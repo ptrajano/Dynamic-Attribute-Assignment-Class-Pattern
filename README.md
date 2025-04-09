@@ -53,6 +53,6 @@ Dynamically assigns all constructor parameters as instance attributes
 - In internal/non-public APIs where readability is less critical
 
 ## Author
-Pedro Trajano Ferreira
-pedro.trajano.ferreira@gmail.com
-04/09/25
+Pedro Trajano Ferreira  
+pedro.trajano.ferreira@gmail.com  
+09/04/25
