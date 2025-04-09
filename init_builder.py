@@ -7,7 +7,9 @@ class A:
         
 
 
+"""
 obj = A(1, 2, 3)
 print(obj.a)
 print(obj.b)
 print(obj.c)
+"""
